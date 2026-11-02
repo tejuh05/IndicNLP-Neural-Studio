@@ -1,0 +1,6 @@
+{
+  "name": "IndicNLP Neural Studio",
+  "description": "Cross-lingual NLP engineering workspace specializing in code-mixed Kannada-English (Kanglish) morphological analysis, enclitic parsing, dataset annotation, and Gemini AI synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
